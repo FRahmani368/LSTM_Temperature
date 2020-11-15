@@ -1,0 +1,2 @@
+Auto regressive code
+using two days lag for forcing data (air temperature and flowrat) and two days lag for simulated stream temperature
